@@ -10,6 +10,9 @@ body {
 
 /* General & 'Reset' Stuff */
 
+.twi{
+  text-align: center;
+}
 .container {
   width: 90%;
   max-width: 600px;
